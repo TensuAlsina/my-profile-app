@@ -1,16 +1,35 @@
-# myprofileapp
+# My Profile App
 
-A new Flutter project.
+![Screenshot from 2022-08-05 16-48-48](https://user-images.githubusercontent.com/96146424/183091195-9b709e96-6d86-45f8-a050-03f2c958eebb.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Table of Contents
+You're sections headers will be used to reference location of destination.
 
-A few resources to get you started if this is your first Flutter project:
+- [Description](#description)
+- [Author Info](#author-info)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+
+Creating or building personal profile for you can be little bit tough. I hope this simple app can tell every one about my contacts and works.
+
+#### Technologies
+
+- Flutter
+
+
+[Back To The Top](#read-me-template)
+
+---
+
+
+
+## Author Info
+
+- Twitter - [@TensuAlsina](https://twitter.com/tensualsina)
+- Instagram - [@TensuAlsina](https://instagram.com/tensualsina)
+ 
+
+[Back To The Top](#read-me-template)
